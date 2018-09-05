@@ -1,0 +1,12 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Federico Dávila\2018\20180626\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Federico Dávila\2018\20180626\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Federico Dávila\2018\20180626\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Luca\20180628-SP - Provenzano Luca\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Luca\20180628-SP - Provenzano Luca\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Luca\20180628-SP - Provenzano Luca\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+D:\Luca\20180628-SP - Provenzano Luca 2C\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Luca\20180628-SP - Provenzano Luca 2C\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Luca\20180628-SP - Provenzano Luca 2C\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb

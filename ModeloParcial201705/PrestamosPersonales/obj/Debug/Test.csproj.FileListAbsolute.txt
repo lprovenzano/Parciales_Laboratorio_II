@@ -1,0 +1,8 @@
+D:\VisualStudio\ModeloParcial201705\PrestamosPersonales\bin\Debug\PrestamosPersonales.exe.config
+D:\VisualStudio\ModeloParcial201705\PrestamosPersonales\bin\Debug\PrestamosPersonales.exe
+D:\VisualStudio\ModeloParcial201705\PrestamosPersonales\bin\Debug\PrestamosPersonales.pdb
+D:\VisualStudio\ModeloParcial201705\PrestamosPersonales\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ModeloParcial201705\PrestamosPersonales\obj\Debug\PrestamosPersonales.exe
+D:\VisualStudio\ModeloParcial201705\PrestamosPersonales\obj\Debug\PrestamosPersonales.pdb
+D:\VisualStudio\ModeloParcial201705\PrestamosPersonales\bin\Debug\Entidades.dll
+D:\VisualStudio\ModeloParcial201705\PrestamosPersonales\bin\Debug\Entidades.pdb

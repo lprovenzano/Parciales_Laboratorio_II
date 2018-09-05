@@ -1,0 +1,11 @@
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\bin\Debug\20180628-SP.v1.exe
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\bin\Debug\Entidades.dll
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\bin\Debug\Excepciones.dll
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\bin\Debug\20180628-SP.v1.pdb
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\bin\Debug\Entidades.pdb
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\bin\Debug\Excepciones.pdb
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Luca\20180628-SP - Provenzano Luca 2C\TestUnitario\obj\Debug\TestUnitario.pdb

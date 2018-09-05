@@ -1,0 +1,4 @@
+D:\Luca\20180628-SP - Provenzano Luca 2C\Excepciones\bin\Debug\Excepciones.dll
+D:\Luca\20180628-SP - Provenzano Luca 2C\Excepciones\bin\Debug\Excepciones.pdb
+D:\Luca\20180628-SP - Provenzano Luca 2C\Excepciones\obj\Debug\Excepciones.dll
+D:\Luca\20180628-SP - Provenzano Luca 2C\Excepciones\obj\Debug\Excepciones.pdb

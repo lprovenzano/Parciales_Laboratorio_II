@@ -1,0 +1,5 @@
+D:\VisualStudio\ModeloParcial201705\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ModeloParcial201705\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\ModeloParcial201705\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\ModeloParcial201705\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\ModeloParcial201705\Entidades\obj\Debug\Entidades.pdb
